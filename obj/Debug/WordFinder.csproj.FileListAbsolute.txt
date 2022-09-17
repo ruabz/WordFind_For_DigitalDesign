@@ -1,0 +1,7 @@
+C:\Users\ruabz\Programming\WordFinder\bin\Debug\WordFinder.exe.config
+C:\Users\ruabz\Programming\WordFinder\bin\Debug\WordFinder.exe
+C:\Users\ruabz\Programming\WordFinder\bin\Debug\WordFinder.pdb
+C:\Users\ruabz\Programming\WordFinder\obj\Debug\WordFinder.csproj.AssemblyReference.cache
+C:\Users\ruabz\Programming\WordFinder\obj\Debug\WordFinder.csproj.CoreCompileInputs.cache
+C:\Users\ruabz\Programming\WordFinder\obj\Debug\WordFinder.exe
+C:\Users\ruabz\Programming\WordFinder\obj\Debug\WordFinder.pdb
